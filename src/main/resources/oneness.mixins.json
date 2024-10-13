@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.sakurafuld.oneness.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "oneness.refmap.json",
+  "mixins": [
+  ],
+  "server": [
+  ],
+  "client": [
+    "oneness.LevelRendererMixin"
+  ],
+  "minVersion": "0.8"
+}
